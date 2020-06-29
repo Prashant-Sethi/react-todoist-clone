@@ -38,7 +38,7 @@ export const AddProject = ({ shouldShow = false }) => {
             className="add-project__name"
             data-testid="project-name"
             type="text"
-            placeholder="Name your porject"
+            placeholder="Name your project"
           />
           <button
             className="add-project__submit"
